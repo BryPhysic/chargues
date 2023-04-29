@@ -1,0 +1,5 @@
+﻿nombre;matricula;descuento;pago_1;pago_2;pago_3;certificado;v_cuota;v_cancelado;v_curso;saldo;estado;telefono
+Bryan;25;0%;130,7;130,7;130,7;;130,7;;;;;fono4
+pepe;25;0%;;;;;130,67;155,7;392;452;;fono1
+maria;25;5%;100;124,70;124,70;35,00;124,13;434,10;392;432,4;;fono2
+jueneto;25;0%;130,7;130,7;;;130,67;286,4;392;452;;fono3
